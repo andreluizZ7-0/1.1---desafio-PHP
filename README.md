@@ -4,8 +4,7 @@ Este projeto é um sistema bancário simples feito em PHP, com interação via t
 
 ---
 
-## 📁 Estrutura do Projeto
-V1.1 DESAFIO PHP/
+📁 V1.1 DESAFIO PHP/
 ├── app/
 │   └── 1.1-desafio.php       → Código principal
 ├── src/
