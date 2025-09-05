@@ -3,14 +3,14 @@
 Este projeto é um sistema bancário simples feito em PHP, com interação via terminal. A versão 1.1 traz melhorias na autenticação, separação de funções e organização em pastas.
 
 ---
-
+```
 📁 V1.1 DESAFIO PHP/
 ├── app/
 │   └── 1.1-desafio.php       → Código principal
 ├── src/
 │   ├── funcoes/              → Funções reutilizáveis
 │   └── users.txt             → Base de dados de usuários
-
+```
 ---
 
 ## 🚀 Funcionalidades
