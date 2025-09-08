@@ -7,9 +7,9 @@ Este projeto é um sistema bancário simples feito em PHP, com interação via t
 📁 V1.1 DESAFIO PHP/
 ├── app/
 │   └── 1.1-desafio.php       → Código principal
+│   └── users.txt             → Base de dados de usuários
 ├── src/
 │   ├── funcoes/              → Funções reutilizáveis
-│   └── users.txt             → Base de dados de usuários
 ```
 ---
 
